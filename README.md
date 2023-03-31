@@ -7,7 +7,7 @@ Variables to consider for each player: points, position, team, price, % ownershi
 
 Constraints: Three players max from one team, $100 initial budget, 15 players on a given team (2 GK, 5 DEF, 5 MID, 3 FWD)
 
-My approach:
+# My approach
 I use linear programming and considering many constraints. In my code, I assemble a team that would maximize points over the course of a season. However, I am considering different optimization variations that can change results greatly.
 
 Variables that I consider:
